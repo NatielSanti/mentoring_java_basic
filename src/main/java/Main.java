@@ -1,9 +1,17 @@
 import statictest.HWStaticTestFirst;
-import statictest.HWStaticTestTwo;
 
 public class Main {
-    public static void main(String[] args) {int a = 10;
-        System.out.println(a + HWStaticTestFirst.b); //Debug this. Answer should be == 15
-        System.out.println(a + HWStaticTestTwo.b); //Debug this. Answer should be == 15
+    public static void main(String[] args) {
+//        LogicOperatorTest a = new LogicOperatorTest();
+//        OrderChild ch = new OrderChild();
+//        System.out.println("Hello World!");
+//        Object > Animal > Cat > HomeCat
+
+//        StaticTest st1 = new StaticTest();
+//        StaticTest st2 = new StaticTest();
+//        st1.method();
+//        st1.method();
+//        st2.method();
+
     }
 }
