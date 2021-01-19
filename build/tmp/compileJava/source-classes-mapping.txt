@@ -1,38 +1,40 @@
-testfinal/FinalTest.java
- testfinal.FinalTest
-callingordertest/OrderChild.java
- callingordertest.OrderChild
-testpackage/innerpackage/AccessTest.java
- testpackage.innerpackage.AccessTest
+statictest/HWStaticTestTwo.java
+ statictest.HWStaticTestTwo
+callingordertest/OrderParent.java
+ callingordertest.OrderParent
 logicoperators/LogicOperatorTest.java
  logicoperators.LogicOperatorTest
 testpackage/innerpackage/InnerAccess.java
  testpackage.innerpackage.InnerAccess
-callingordertest/OrderParent.java
- callingordertest.OrderParent
-testpackage/ChildAccessTest.java
- testpackage.ChildAccessTest
-classandinterface/CanSwim.java
- classandinterface.CanSwim
-classandinterface/Eagle.java
- classandinterface.Eagle
-classandinterface/Duck.java
- classandinterface.Duck
 testfinal/FinalTestSecond.java
  testfinal.FinalTestSecond
 statictest/StaticTest.java
  statictest.StaticTest
 classandinterface/Bird.java
  classandinterface.Bird
+classandinterface/Eagle.java
+ classandinterface.Eagle
+testpackage/innerpackage/AccessTest.java
+ testpackage.innerpackage.AccessTest
+statictest/StaticMain.java
+ statictest.StaticMain
+testfinal/FinalTest.java
+ testfinal.FinalTest
+testpackage/ChildAccessTest.java
+ testpackage.ChildAccessTest
+classandinterface/CanSwim.java
+ classandinterface.CanSwim
+Main.java
+ Main
+statictest/StaticMethod.java
+ statictest.StaticMethod
+callingordertest/OrderChild.java
+ callingordertest.OrderChild
+classandinterface/Duck.java
+ classandinterface.Duck
+statictest/HWStaticTestFirst.java
+ statictest.HWStaticTestFirst
 testpackage/AccessTestSecond.java
  testpackage.AccessTestSecond
 classandinterface/CanFly.java
  classandinterface.CanFly
-statictest/StaticMethod.java
- statictest.StaticMethod
-statictest/HWStaticTestFirst.java
- statictest.HWStaticTestFirst
-statictest/HWStaticTestTwo.java
- statictest.HWStaticTestTwo
-Main.java
- Main
