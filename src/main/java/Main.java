@@ -5,6 +5,7 @@ public class Main {
         int b = 15;
         int c = 30;
         int d = 5;
+        int e = 10;
         System.out.println(a + b + c + d);
     }
 }
