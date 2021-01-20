@@ -14,8 +14,8 @@ import java.util.Map;
 public class SecondLessonMain {
     public static void main(String[] args) {
         arrayTest();
-//        listTest();
-//        mapTest();
+        listTest();
+        mapTest();
     }
 
     private static void arrayTest() {

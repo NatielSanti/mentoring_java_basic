@@ -22,9 +22,9 @@ public class SecondLessonHomeWorkMain {
         Calculator sumCalculator = new CalculatorSum();
         Calculator productCalculator = new CalculatorProduct();
 
-        System.out.println("Sum of list: " + sumCalculator.calculateList(list));
-        System.out.println("Sum of map: " + sumCalculator.calculateMap(map));
-        System.out.println("Product of list: " + productCalculator.calculateList(list));
-        System.out.println("Product of map: " + productCalculator.calculateMap(map));
+        System.out.println("Sum of list: " + sumCalculator.calculateList(list)); // 14
+        System.out.println("Sum of map: " + sumCalculator.calculateMap(map));// 10
+        System.out.println("Product of list: " + productCalculator.calculateList(list)); //120
+        System.out.println("Product of map: " + productCalculator.calculateMap(map)); //24
     }
 }
