@@ -1,4 +1,4 @@
-package testpackage.innerpackage;
+package old.testpackage.innerpackage;
 
 public class InnerAccess {
     public InnerAccess(){

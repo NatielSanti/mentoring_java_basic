@@ -1,4 +1,4 @@
-package callingordertest;
+package old.callingordertest;
 
 public class OrderParent {
     static {

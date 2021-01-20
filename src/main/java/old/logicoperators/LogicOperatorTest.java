@@ -1,4 +1,4 @@
-package logicoperators;
+package old.logicoperators;
 
 public class LogicOperatorTest {
     boolean da;
