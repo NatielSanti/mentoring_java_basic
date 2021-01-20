@@ -1,4 +1,4 @@
-package testfinal;
+package old.testfinal;
 
 public final class FinalTest {
     public FinalTest(){}

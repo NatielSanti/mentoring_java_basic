@@ -1,4 +1,4 @@
-package testfinal;
+package old.testfinal;
 
 public class FinalTestSecond
 //        extends FinalTest

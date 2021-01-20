@@ -1,4 +1,4 @@
-package testpackage.innerpackage;
+package old.testpackage.innerpackage;
 
 public class AccessTest {
     public int a = 1;

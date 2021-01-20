@@ -1,4 +1,4 @@
-package statictest;
+package lessons.first;
 
 public class StaticTest {
     static{

@@ -1,4 +1,4 @@
-package classandinterface;
+package old.classandinterface;
 
 public class Eagle extends Bird implements CanFly{
     @Override
