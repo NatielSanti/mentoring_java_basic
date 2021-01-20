@@ -1,5 +1,5 @@
 package statictest;
 
 public class HWStaticTestFirst {
-    public int b = 5;
+    public static int b = 5; //add "static" keyword
 }
