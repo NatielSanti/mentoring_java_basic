@@ -1,4 +1,4 @@
-package lessons.first;
+package lessons.first.homework;
 
 public class StaticMain {
     public static void main(String[] args) {
