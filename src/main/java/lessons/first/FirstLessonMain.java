@@ -21,16 +21,19 @@ public class FirstLessonMain {
         int[][] arrMulti = new int[2][3];
         int multi = 1;
         int multuSum = 0;
+        int multiProduct = 1;
         for(int i = 0; i < arrMulti.length; i++){
             for(int j = 0; j < arrMulti[i].length; j++){
                 arrMulti[i][j] = multi;
                 multi++;
                 System.out.println("ArrMulti element in row: " + i +
                         " and column: " + j + " == " +  arrMulti[i][j]);
-                multuSum += arrMulti[i][j];
+                multuSum += arrMulti[i][j]; // multuSum = multuSum + arrMulti[i][j];
+                multiProduct *= arrMulti[i][j];
             }
         }
         System.out.println("ArrMulti sum: " + multuSum);
+        System.out.println("ArrMulti product: " + multiProduct);
         int[][][] arrMulti2 = new int[2][3][4];
 
 //        ArrayList<Integer> listFull = new ArrayList<Integer>();
