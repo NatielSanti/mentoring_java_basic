@@ -5,6 +5,12 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * Lesson keywords:
+ * array, java collections, list, arrayList,
+ * map, hashMap, interface, polymorphism,
+ * cycle, for(cycle)
+ * */
 public class FirstLessonMain {
     public static void main(String[] args) {
         int[] arr = new int[10];
@@ -25,6 +31,7 @@ public class FirstLessonMain {
             }
         }
         System.out.println("ArrMulti sum: " + multuSum);
+        int[][][] arrMulti2 = new int[2][3][4];
 
 //        ArrayList<Integer> listFull = new ArrayList<Integer>();
 //        List<Integer> list = new ArrayList<>();
