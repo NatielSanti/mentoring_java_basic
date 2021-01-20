@@ -1,6 +1,6 @@
-package testpackage;
+package old.testpackage;
 
-import testpackage.innerpackage.AccessTest;
+import old.testpackage.innerpackage.AccessTest;
 
 public class ChildAccessTest extends AccessTest {
     public ChildAccessTest(){
